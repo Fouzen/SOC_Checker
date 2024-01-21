@@ -10,7 +10,7 @@ The SOC Checker is an automated bash script which is able to execute brute force
 
 ## Usage
 
-The tool scans the local area network for available network devices, upon finding any available devices, it is displayed for the user to pick the target to attack.
+The tool scans the local area network for available network devices, and display all available network devices. User can choose the target to attack.
 Information on target host is displayed and the user can pick 3 types of attack vector. 
 
 ![image](https://github.com/Fouzen/SOC_Checker/assets/7608068/aa745c46-0fc7-4280-b8ff-4ae9ee826e3e)
